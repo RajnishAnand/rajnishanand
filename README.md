@@ -6,7 +6,8 @@
 + A Programmer
 + A Lazy Guy
 
-[![GitHub followers](https://img.shields.io/github/followers/rajnishanand?label=Rajnish%20Anand&style=social)](https://github.com/rajnishanand) <a href="https://www.sololearn.com/Profile/15610625"><img src="https://www.sololearn.com/Images/sprite-rebranding.svg" style="background:#efefef;height:20px;border:4px solid #efefef;border-radius:3px;" ></a>
+[![GitHub followers](https://img.shields.io/github/followers/rajnishanand?label=Rajnish%20Anand&style=social)](https://github.com/rajnishanand) 
+<a href="https://www.sololearn.com/Profile/15610625"><img src="https://www.sololearn.com/Images/sprite-rebranding.svg" style="background:#efefef;height:20px;border:4px solid #efefef;border-radius:3px;" ></a>
 
 ----
 [![Rajnish Anand's Github Stats](https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=#333333)](https://github.com/rajnishanand)
