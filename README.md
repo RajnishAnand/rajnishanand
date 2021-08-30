@@ -11,6 +11,6 @@
 
 [![Rajnish Anand's Github Stats](https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=#333333)](https://github.com/rajnishanand)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=rajnishanand&theme=github_dark&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=arnavkr&theme=github_dark&layout=compact)](./)
 
-![](https://activity-graph.herokuapp.com/graph?username=rajnishanand&theme=react-dark)
+[![](https://activity-graph.herokuapp.com/graph?username=rajnishanand&theme=react-dark))(./)
