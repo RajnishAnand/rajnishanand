@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Hi there! I'm Rajnish Anand
+<img src="https://cdn.discordapp.com/emojis/862567696898195476.gif" align="right" style="border-bottom:solid 2px #444444" >
 
-<!--
-**RajnishAnand/rajnishanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ A Student 
++ A Learner
++ A Programmer
++ A Lazy Guy
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/rajnishanand?label=Rajnish%20Anand&style=social)](https://github.com/rajnishanand) [<img src="https://www.sololearn.com/Images/sprite-rebranding.svg" style="background:#efefef;height:20px;border:4px solid #efefef;border-radius:3px;" >](https://www.sololearn.com/Profile/15610625/?ref=app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+[![Rajnish Anand's Github Stats](https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=#333333)](https://github.com/rajnishanand)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=rajnishanand&theme=github_dark&layout=compact)
+
+![](https://activity-graph.herokuapp.com/graph?username=rajnishanand&theme=react-dark)
