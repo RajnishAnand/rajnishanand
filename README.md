@@ -13,4 +13,4 @@
 
 [<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=AAAFB0&border_radius=0&hide_border=true&layout=compact">](https://github.com/rajnishanand)
 
-[![](https://activity-graph.herokuapp.com/graph?username=rajnishanand&theme=react-dark&bg_color=ffffff00&color=AAAFB0&hide_border=true&point=fcc300&line=fcc300)](https://github.com/rajnishanand)
+[![](https://activity-graph.herokuapp.com/graph?username=rajnishanand&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)](https://github.com/rajnishanand)
