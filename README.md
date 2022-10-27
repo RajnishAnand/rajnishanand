@@ -21,13 +21,15 @@
 
 
 <!-- github stats and most used langs -->
-<img src="https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&card_width=400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&layout=compact&card_width=350" />
+</p>
 
 <!-- git streak -->
-<center>
+<p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
-</center>
+</p>
 
 <!-- git commit graph -->
 ![](https://activity-graph.herokuapp.com/graph?username=rajnishanand&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
