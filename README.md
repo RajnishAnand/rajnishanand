@@ -6,7 +6,7 @@
   <img align="right" style="border-bottom:solid 2px #444444" />
 </picture>
 
-+ A Student 
++ A CSE Student 
 + A Learner
 + A Programmer
 + A Lazy Guy
