@@ -32,4 +32,4 @@
 </p>
 
 <!-- git commit graph -->
-![](https://activity-graph.herokuapp.com/graph?username=rajnishanand&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=rajnishanand&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
