@@ -17,7 +17,7 @@
 [![sololearn](https://img.shields.io/badge/-Sololearn-deepskyblue?logo=sololearn&logoColor=white&color=222d3d&labelColor=384963&style=flat-square)](https://www.sololearn.com/Profile/15610625) 
 [![dev.to](https://img.shields.io/badge/-DEV.to-deepskyblue?logo=devdotto&logoColor=black&color=656565&labelColor=white&style=flat-square)](https://dev.to/rajnishanand) 
 [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-deepskyblue?logo=stackoverflow&logoColor=orange&color=656565&labelColor=DFDFDF&style=flat-square)](https://stackoverflow.com/users/14512811/rajnish-anand)
-[![Discord](https://img.shields.io/badge/-Absolute%20Zero%233976-deepskyblue?logo=discord&logoColor=white&color=3d45a9&labelColor=5965F6&style=flat-square)](https://discordapp.com/users/800445583046213663)
+[![Discord](https://img.shields.io/badge/-@rajnishanand-deepskyblue?logo=discord&logoColor=white&color=3d45a9&labelColor=5965F6&style=flat-square)](https://discordapp.com/users/800445583046213663)
 
 
 <!-- github stats and most used langs -->
