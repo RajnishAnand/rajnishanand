@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/emojis/862567696898195476.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/emojis/988833186626805771.gif">
-  <img align="right" style="border-bottom:solid 2px #444444" />
+  <img align="right" />
 </picture>
 
 + A CSE Student 
@@ -22,13 +22,22 @@
 
 <!-- github stats and most used langs -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&layout=compact&card_width=350" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=535f6a&border_radius=0&hide_border=true&layout=compact&card_width=350">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&layout=compact&card_width=350" />
+  </picture>
 </p>
 
 <!-- git streak -->
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
+  </picture>
 </p>
 
 <!-- git commit graph -->
