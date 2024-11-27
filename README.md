@@ -33,12 +33,12 @@
 </p>
 
 <!-- git streak -->
-<!-- <p align="center"> -->
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajnishanand&theme=icegray&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000">
-  <img align="right" height="230" src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=false&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
   </picture>
-<!-- </p> -->
+</p>
 
 
 <!--START_SECTION:waka-->
@@ -85,7 +85,6 @@ No Activity Tracked This Week
 
  Last Updated on 27/11/2024 13:15:55 UTC
 <!--END_SECTION:waka-->
-
 
 <!-- git commit graph -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=rajnishanand&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
