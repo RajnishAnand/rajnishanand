@@ -33,20 +33,20 @@
 </p>
 
 <!-- git streak -->
-<!-- <p align="center"> -->
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajnishanand&theme=icegray&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000">
-  <img align="right" height="230" src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
   </picture>
-<!-- </p> -->
+</p>
 
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 6.4 kB Used in GitHub's Storage 
+> 📦 6.5 kB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2024
+> 🏆 149 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,21 +57,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                423 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-🌆 Daytime                740 commits         █████████░░░░░░░░░░░░░░░░   34.50 % 
-🌃 Evening                747 commits         █████████░░░░░░░░░░░░░░░░   34.83 % 
-🌙 Night                  235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+🌞 Morning                423 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+🌆 Daytime                740 commits         █████████░░░░░░░░░░░░░░░░   34.42 % 
+🌃 Evening                752 commits         █████████░░░░░░░░░░░░░░░░   34.98 % 
+🌙 Night                  235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Tuesday                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Wednesday                350 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Thursday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Friday                   343 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Saturday                 304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Sunday                   341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Tuesday                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Wednesday                355 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Thursday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Friday                   343 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Saturday                 304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Sunday                   341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 ```
 
 
@@ -83,9 +83,8 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/11/2024 13:15:55 UTC
+ Last Updated on 27/11/2024 14:15:16 UTC
 <!--END_SECTION:waka-->
-
 
 <!-- git commit graph -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=rajnishanand&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
