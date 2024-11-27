@@ -23,11 +23,11 @@
 <!-- github stats and most used langs -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=535353&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400">
     <img src="https://github-readme-stats.vercel.app/api?username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=535f6a&border_radius=0&hide_border=true&layout=compact&card_width=350">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=535353&border_radius=0&hide_border=true&layout=compact&card_width=350">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&layout=compact&card_width=350" />
   </picture>
 </p>
@@ -35,10 +35,11 @@
 <!-- git streak -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajnishanand&theme=icegray&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
   </picture>
 </p>
+
 
 <!-- git commit graph -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=rajnishanand&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
