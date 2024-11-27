@@ -12,6 +12,79 @@
 + A Lazy Guy
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 6.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 149 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                423 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+🌆 Daytime                740 commits         █████████░░░░░░░░░░░░░░░░   34.51 % 
+🌃 Evening                746 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌙 Night                  235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Tuesday                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Wednesday                349 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Thursday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Friday                   343 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Saturday                 304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Sunday                   341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/RajnishAnand/RajnishAnand/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/11/2024 12:53:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- Social Badges-->
