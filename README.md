@@ -11,6 +11,9 @@
 + A Programmer
 + A Lazy Guy
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Social Badges-->
 ---
 [![GitHub followers](https://img.shields.io/github/followers/rajnishanand?label=Github&labelColor=222d3d&style=flat-square&logo=github)](https://github.com/rajnishanand) 
