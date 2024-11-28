@@ -22,6 +22,7 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
+          IGNORED_REPOS: "foo-commits, host"
 
 
 
