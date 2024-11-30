@@ -19,6 +19,7 @@
 [![dev.to](https://img.shields.io/badge/-DEV.to-deepskyblue?logo=devdotto&logoColor=black&color=656565&labelColor=white&style=flat-square)](https://dev.to/rajnishanand) 
 [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-deepskyblue?logo=stackoverflow&logoColor=orange&color=656565&labelColor=DFDFDF&style=flat-square)](https://stackoverflow.com/users/14512811/rajnish-anand)
 [![Discord](https://img.shields.io/badge/-@rajnishanand-deepskyblue?logo=discord&logoColor=white&color=3d45a9&labelColor=5965F6&style=flat-square)](https://discordapp.com/users/800445583046213663)
+[![Reddit](https://img.shields.io/badge/-Reddit-white?logo=Reddit&logoColor=white&color=ff4500&labelColor=ff6700&style=flat-square)](https://www.reddit.com/user/rajnishanand/)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rajnishanand)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rajnishanand)
