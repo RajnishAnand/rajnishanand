@@ -50,6 +50,8 @@
 
 > 📦 6.6 kB Used in GitHub's Storage 
  > 
+> 🏆 241 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -81,11 +83,11 @@ Sunday                   337 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Neovim                   9 hrs 22 mins       █████████████████████████   100.00 % 
+Neovim                   17 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/12/2024 18:49:07 UTC
+ Last Updated on 17/12/2024 18:49:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- git commit graph -->
