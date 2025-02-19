@@ -50,8 +50,6 @@
 
 > 📦 6.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -87,7 +85,7 @@ Neovim                   1 hr 32 mins        ███████████�
 ```
 
 
- Last Updated on 18/02/2025 18:46:00 UTC
+ Last Updated on 19/02/2025 18:46:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- git commit graph -->
