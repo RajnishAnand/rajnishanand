@@ -24,6 +24,16 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rajnishanand)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rajnishanand)
 
+
+<!-- [OSS Insight](https://ossinsight.io/) -->
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=63791262" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63791262&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @RajnishAnand" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63791262&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+
 <!-- github stats and most used langs -->
 <p align="center">
   <picture>
@@ -43,6 +53,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=rajnishanand&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
   </picture>
 </p>
+
+
 
 
 <!--START_SECTION:waka-->
