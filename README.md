@@ -26,12 +26,14 @@
 
 
 <!-- [OSS Insight](https://ossinsight.io/) -->
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=63791262" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63791262&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @RajnishAnand" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63791262&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=63791262" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63791262&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @RajnishAnand" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=63791262&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
+</p>
 
 
 <!-- github stats and most used langs -->
@@ -45,6 +47,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&layout=compact&card_width=350" />
   </picture>
 </p>
+
 
 <!-- git streak -->
 <p align="center">
