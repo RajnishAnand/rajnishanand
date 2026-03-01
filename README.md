@@ -6,10 +6,14 @@
   <img align="right" />
 </picture>
 
-+ A CSE Student 
-+ A Learner
-+ A Programmer
-+ A Lazy Guy
+```js
+Computer Science student focused on:
++ 🌐 Full-Stack Web Development  
++ 🔐 Cybersecurity (offensive + fundamentals)  
++ 🤖 Machine Learning
+
+"Experimenting, breaking things, and learning."
+```
 
 <!-- Social Badges-->
 ---
@@ -57,8 +61,12 @@
   </picture>
 </p>
 
+---
 
-
+<details open>
+<summary>
+  <h3> WakaTime Stats </h3>
+</summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
@@ -108,5 +116,16 @@ Android Studio           16 mins             █░░░░░░░░░░�
  Last Updated on 01/03/2026 18:54:19 UTC
 <!--END_SECTION:waka-->
 
-<!-- git commit graph -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=rajnishanand&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
+</details>
+
+<!--
+<details open>
+<summary>
+  <h3> Github contribution Graph </h3>
+</summary>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnishanand&theme=github_dark" />
+      <img alt="Github Contribution Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnishanand&theme=github" width=100% />
+    </picture>
+</details>
+-->
