@@ -1,4 +1,4 @@
-name: Update README Stats
+name: Generate Readme Stats 
 
 on:
   schedule:
@@ -11,20 +11,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate Stats (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=rajnishanand&show_icons=true&theme=transparent
-          path: assets/stats.svg
+          options: username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400
+          path: assets/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate Stats (Light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=535353&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400
+          path: assets/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate Top Langs (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=rajnishanand&layout=compact
-          path: assets/top-langs.svg
+          options: username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&layout=compact&card_width=350
+          path: assets/langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Langs (Light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=RajnishAnand&theme=github_dark&bg_color=ffffff00&text_color=535353&border_radius=0&hide_border=true&layout=compact&card_width=350
+          path: assets/langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit
