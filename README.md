@@ -70,7 +70,7 @@ Computer Science student focused on:
 </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -109,11 +109,11 @@ Sunday                   344 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Neovim                   5 hrs 28 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 19:36:43 UTC
+ Last Updated on 27/03/2026 19:18:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
