@@ -1,9 +1,9 @@
 <img alt="Rajnish Anand" src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=27&pause=1000&color=58A5FE&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Rajnish+Anand." />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/emojis/862567696898195476.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/emojis/988833186626805771.gif">
-  <img align="right" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/night.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/day.jpg">
+  <img align="right" width="20%" />
 </picture>
 
 ```py
