@@ -7,7 +7,7 @@
 </picture>
 
 ```js
-Computer Science student focused on:
+Currently focused on:
 + 🌐 Full-Stack Web Development  
 + 🔐 Cybersecurity (offensive + fundamentals)  
 + 🤖 Machine Learning
