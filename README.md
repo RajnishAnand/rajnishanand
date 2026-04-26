@@ -6,7 +6,7 @@
   <img align="right" />
 </picture>
 
-```js
+```py
 Currently focused on:
 + 🌐 Full-Stack Web Development  
 + 🔐 Cybersecurity (offensive + fundamentals)  
