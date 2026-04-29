@@ -74,7 +74,7 @@ Currently focused on:
 
 **🐱 My GitHub Data** 
 
-> 📦 26.0 kB Used in GitHub's Storage 
+> 📦 26.1 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2026
  > 
@@ -109,11 +109,12 @@ Sunday                   349 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           1 hr 49 mins        ███████████████████░░░░░░   75.70 % 
+Neovim                   35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
 ```
 
 
- Last Updated on 28/04/2026 19:59:48 UTC
+ Last Updated on 29/04/2026 19:58:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
