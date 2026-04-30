@@ -70,7 +70,7 @@ Currently focused on:
 </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -109,12 +109,12 @@ Sunday                   349 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Unknown Editor           1 hr 49 mins        ███████████████████░░░░░░   75.70 % 
-Neovim                   35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Neovim                   3 hrs 27 mins       ████████████████░░░░░░░░░   65.46 % 
+Unknown Editor           1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   34.54 % 
 ```
 
 
- Last Updated on 29/04/2026 19:58:33 UTC
+ Last Updated on 30/04/2026 19:54:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
