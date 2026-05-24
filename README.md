@@ -74,9 +74,9 @@ Currently focused on:
 
 **🐱 My GitHub Data** 
 
-> 📦 26.3 kB Used in GitHub's Storage 
+> 📦 26.2 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2026
+> 🏆 81 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,8 +84,36 @@ Currently focused on:
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 23/05/2026 19:42:44 UTC
+```text
+🌞 Morning                427 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+🌆 Daytime                852 commits         █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌃 Evening                754 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
+🌙 Night                  270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Tuesday                  325 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Wednesday                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Thursday                 305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Friday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Saturday                 376 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Sunday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Neovim                   20 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/05/2026 19:46:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
