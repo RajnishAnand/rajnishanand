@@ -84,8 +84,36 @@ Currently focused on:
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 24/07/2026 19:53:08 UTC
+```text
+🌞 Morning                313 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+🌆 Daytime                685 commits         ██████████░░░░░░░░░░░░░░░   38.14 % 
+🌃 Evening                585 commits         ████████░░░░░░░░░░░░░░░░░   32.57 % 
+🌙 Night                  213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Tuesday                  245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Friday                   253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Saturday                 306 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Sunday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Neovim                   8 hrs 17 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/07/2026 19:40:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
