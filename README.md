@@ -70,6 +70,8 @@ Currently focused on:
 </summary>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -109,17 +111,36 @@ Sunday                   377 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Neovim                   3 hrs 3 mins        █████████████████████████   100.00 % 
+Neovim                   3 hrs 3 mins        █████████████████░░░░░░░░   68.25 % 
+Copilot CLI              58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Zed                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 58 mins (21.62%)
+
+✍️ 377 lines written by AI, 1,059 lines written by hand (26.25% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 8 AI Prompts
+
+Code                     232 lines           ██████████████░░░░░░░░░░░   57.43 % 
+GPT                      172 lines           ███████████░░░░░░░░░░░░░░   42.57 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 26.25% of written lines came from AI
+📝 Concise Prompter — average 72 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 79.94% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 20:57:33 UTC
+ Last Updated on 21/09/2026 22:05:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
