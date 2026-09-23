@@ -111,17 +111,17 @@ Sunday                   377 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Neovim                   1 hr 41 mins        ██████████████░░░░░░░░░░░   54.21 % 
-Copilot CLI              58 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
-Zed                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Copilot CLI              58 mins             ████████████░░░░░░░░░░░░░   48.67 % 
+Neovim                   33 mins             ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Zed                      27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (31.19%)
+⏱ AI Coding Time: 58 mins (48.75%)
 
-✍️ 377 lines written by AI, 582 lines written by hand (39.31% AI-written)
+✍️ 377 lines written by AI, 327 lines written by hand (53.55% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -133,14 +133,14 @@ Code                     232 lines           ███████████�
 GPT                      172 lines           ███████████░░░░░░░░░░░░░░   42.57 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.31% of written lines came from AI
+⚖️ Balanced with AI — 53.55% of written lines came from AI
 📝 Concise Prompter — average 72 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 62.97% of changed lines were hand-edited
+🚀 High AI Trust — 47.8% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 21:31:49 UTC
+ Last Updated on 23/09/2026 21:37:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
