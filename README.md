@@ -8,8 +8,7 @@
 
 ```py
 Currently focused on:
-+ 🌐 Full-Stack Web Development  
-+ 🔐 Cybersecurity (offensive + fundamentals)  
++ 🔐 Cybersecurity   
 + 🤖 Machine Learning
 
 "Experimenting, breaking things, and learning."
