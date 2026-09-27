@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate Stats (Dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400
@@ -20,13 +20,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Stats (Light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=rajnishanand&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=535353&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400
           path: assets/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
+          token: ${{ secrets.GITHUB_TOKEN }}          
+
       - name: Generate Top Langs (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
