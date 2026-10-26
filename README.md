@@ -110,36 +110,34 @@ Sunday                   381 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Neovim                   4 hrs 55 mins       ███████████████████████░░   90.59 % 
-OpenCode                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Neovim                   4 hrs 35 mins       ███████████████████████░░   90.27 % 
+OpenCode                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 36 mins (66.38%)
+⏱ AI Coding Time: 3 hrs 35 mins (70.65%)
 
-✍️ 0 lines written by AI, 268 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 191 lines written by hand (0.0% AI-written)
 
-🔤 535,378 Input Tokens, 107,642 Output Tokens
+🔤 521,884 Input Tokens, 105,386 Output Tokens
 
-💵 $0.95 Estimated AI Cost This Week
+💵 $0.69 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 64 AI Prompts
+🧠 6 AI Sessions, 63 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 318 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 322 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 21:01:11 UTC
+ Last Updated on 26/10/2026 22:48:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
