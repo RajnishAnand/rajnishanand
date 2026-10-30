@@ -110,34 +110,34 @@ Sunday                   381 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Neovim                   3 hrs 7 mins        ██████████████████████░░░   86.31 % 
-OpenCode                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Neovim                   1 hr 38 mins        ██████████████████████░░░   89.48 % 
+OpenCode                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 35 mins (99.43%)
+⏱ AI Coding Time: 1 hr 48 mins (98.87%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 521,884 Input Tokens, 105,386 Output Tokens
+🔤 228,806 Input Tokens, 35,722 Output Tokens
 
-💵 $0.69 Estimated AI Cost This Week
+💵 $0.37 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 63 AI Prompts
+🧠 4 AI Sessions, 35 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 322 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 91 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 22:53:41 UTC
+ Last Updated on 30/10/2026 22:31:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
